@@ -20,3 +20,15 @@ An AI-powered recruiter assistant that analyzes a candidate’s resume to a job 
 3. Combine both into a structured prompt  
 4. Send user questions + context to LLM  
 5. Return intelligent screening responses  
+
+
+
+---
+
+## Installation & Setup
+
+### 1. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```

@@ -1,0 +1,36 @@
+Job Title: Data Engineer (AI / Machine Learning Focus)
+
+Location: United States (Remote or Hybrid)
+
+Job Description:
+
+We are seeking a Data Engineer with a strong interest in Artificial Intelligence and Machine Learning to join our growing team. The ideal candidate will be responsible for designing, building, and maintaining scalable data pipelines and supporting AI-driven applications.
+
+Key Responsibilities:
+- Design and implement scalable ETL pipelines for structured and unstructured data
+- Build and maintain data pipelines using tools such as Apache Spark, Python, and SQL
+- Collaborate with data scientists and machine learning engineers to deploy models into production
+- Develop data architectures that support real-time and batch processing
+- Optimize data workflows for performance and reliability
+- Work with cloud platforms such as AWS, GCP, or Azure
+- Ensure data quality, integrity, and security across systems
+
+Required Skills:
+- Strong programming skills in Python and SQL
+- Experience with data processing frameworks (Apache Spark, Hadoop, or similar)
+- Familiarity with cloud services (AWS, GCP, or Azure)
+- Understanding of data warehousing and ETL processes
+- Experience with version control (Git)
+
+Preferred Qualifications:
+- Experience with machine learning workflows or MLOps
+- Familiarity with Docker and Kubernetes
+- Experience working with large-scale distributed systems
+- Knowledge of data visualization tools (e.g., Power BI, Tableau)
+
+Education:
+- Bachelor’s degree in Computer Science, Engineering, or related field
+
+Nice to Have:
+- Experience working with Large Language Models (LLMs)
+- Exposure to vector databases or retrieval-augmented generation (RAG)

@@ -4,7 +4,11 @@ Location: United States (Remote or Hybrid)
 
 Job Description:
 
-We are seeking a Data Engineer with a strong interest in Artificial Intelligence and Machine Learning to join our growing team. The ideal candidate will be responsible for designing, building, and maintaining scalable data pipelines and supporting AI-driven applications.
+About the Role
+
+We are looking for a Data Engineer with a strong foundation in scalable data systems and a passion for AI/ML applications. In this role, you will design and build robust data pipelines and infrastructure that power machine learning models, analytics, and AI-driven products.
+
+You will work closely with data scientists, ML engineers, and software teams to enable production-ready AI systems, including modern architectures such as real-time pipelines, LLM integrations, and RAG-based applications.
 
 Key Responsibilities:
 - Design and implement scalable ETL pipelines for structured and unstructured data
@@ -23,6 +27,7 @@ Required Skills:
 - Experience with version control (Git)
 
 Preferred Qualifications:
+- Strong programming skills in Python and SQL
 - Experience with machine learning workflows or MLOps
 - Familiarity with Docker and Kubernetes
 - Experience working with large-scale distributed systems
@@ -34,3 +39,11 @@ Education:
 Nice to Have:
 - Experience working with Large Language Models (LLMs)
 - Exposure to vector databases or retrieval-augmented generation (RAG)
+- Exposure to Agentic AI frameworks or tool-based workflows
+- Understanding of embedding pipelines and semantic search systems
+
+What We Offer:
+- Opportunity to work on cutting-edge AI and data platforms
+- Collaborative, fast-paced engineering environment
+- Flexible work arrangements (remote/hybrid)
+- Career growth in Data Engineering → AI / Applied AI / ML Engineering

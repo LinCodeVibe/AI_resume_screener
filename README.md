@@ -32,3 +32,20 @@ An AI-powered recruiter assistant that analyzes a candidate’s resume to a job 
 ```bash
 pip install -r requirements.txt
 ```
+
+## Project Structure
+
+```
+AI_RESUME_SCREENER/
+│
+├── resume_screen.py      
+├── requirements.txt      
+├── .env                 
+│
+├── Data/
+│   ├── job_description.txt
+│   └── Resume_SandraGreen.pdf
+
+```
+
+---

@@ -38,3 +38,17 @@ If the resume does not contain enough information, say so.
 ## Job Description:
 {job_description}
 """
+
+# Chat function
+# OpenAi chat API to power AI resume screener
+def chat(message, history):
+    messages = [{"role": "system", "content": system_prompt}]
+    messages += history
+    messages.append({"role": "user", "content": message})
+
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=messages
+    )
+
+    return response.choices[0].message.content

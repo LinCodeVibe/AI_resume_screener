@@ -16,3 +16,7 @@ for page in reader.pages:
     text = page.extract_text()
     if text:
         resume_text += text + "\n"
+
+# Implement file I/O for job description input
+with open("data/job_description.txt", "r", encoding="utf-8") as f:
+    job_description = f.read()

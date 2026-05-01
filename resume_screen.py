@@ -20,3 +20,21 @@ for page in reader.pages:
 # Implement file I/O for job description input
 with open("data/job_description.txt", "r", encoding="utf-8") as f:
     job_description = f.read()
+
+# Create a system prompt tailored for recruiter-focused use cases.
+system_prompt = f"""
+You are an AI Resume Screener for recruiters.
+
+Your job is to analyze the candidate based ONLY on the resume/profile and job description provided.
+
+You can help answer questions such as: Is this candidate a good fit? What skills match the job description?
+
+Be professional, objective, and concise.
+If the resume does not contain enough information, say so.
+
+## Candidate Resume/Profile:
+{resume_text}
+
+## Job Description:
+{job_description}
+"""

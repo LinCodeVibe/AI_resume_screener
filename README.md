@@ -49,3 +49,39 @@ AI_RESUME_SCREENER/
 ```
 
 ---
+
+## Installation & Setup
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+
+## How to get an OpenAI API Key
+
+To use this project, you’ll need an OpenAI API key.
+
+1. Go to the OpenAI platform:  
+   https://platform.openai.com/
+
+2. Sign up or log in to your account
+
+3. Navigate to the API keys page:  
+   https://platform.openai.com/api-keys
+
+4. Click **"Create new secret key"**
+
+5. Copy the key and store it securely
+
+---
+
+## Add API Key to Your Project
+
+Create a `.env` file in the root directory and add:
+
+```env
+OPENAI_API_KEY=your_api_key_here

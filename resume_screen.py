@@ -52,3 +52,15 @@ def chat(message, history):
     )
 
     return response.choices[0].message.content
+
+# Gradio interface for user interaction
+# Enabled natural language queries on resumes and job descriptions
+demo = gr.ChatInterface(
+    fn=chat,
+    title="AI Resume Screener",
+    description=(
+        "Ask questions about a candidate based on their resume and the job description: "       
+    ),
+)
+
+demo.launch()

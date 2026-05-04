@@ -85,3 +85,16 @@ Create a `.env` file in the root directory and add:
 
 ```env
 OPENAI_API_KEY=your_api_key_here
+```
+
+## Run the App
+
+```bash
+python resume_screen.py
+```
+
+##  Then open:
+
+```bash
+http://127.0.0.1:7860
+```

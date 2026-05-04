@@ -99,6 +99,12 @@ python resume_screen.py
 http://127.0.0.1:7860
 ```
 
+## Demo
+
+![App Demo][assets/demo_AI_resume_screener.png]
+
+
+
 ## Example Questions
 
 - Is this candidate a good fit for the role?

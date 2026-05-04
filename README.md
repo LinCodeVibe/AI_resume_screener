@@ -99,4 +99,21 @@ python resume_screen.py
 http://127.0.0.1:7860
 ```
 
+## Example Questions
+
+- Is this candidate a good fit for the role?
+- Which skills from the job description are matched?
+- What are the candidate’s key strengths?
+- Give a fit score from 1 to 100
+- Summarize this candidate
+- What technical questions are appropriate for this candidate?
+- Is this candidate overqualified or underqualified?
+
+## Tech Stack
+
+- Python  
+- OpenAI API (LLM)  
+- Gradio (UI)  
+- PyPDF (PDF parsing)  
+- python-dotenv (environment variables)  
 

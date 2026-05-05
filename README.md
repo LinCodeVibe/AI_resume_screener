@@ -123,3 +123,10 @@ http://127.0.0.1:7860
 - PyPDF (PDF parsing)  
 - python-dotenv (environment variables)  
 
+
+## Future Improvements
+
+- Multi-resume comparison  
+- Candidate ranking system  
+- Deployment (Hugging Face / Vercel)  
+- Vector database (FAISS / Pinecone)  
